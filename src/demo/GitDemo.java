@@ -3,8 +3,15 @@ package demo;
 public class GitDemo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		String name="sushma";
+		int rollno=101;
+		System.out.println(name);
+		System.out.println(rollno);
+		
+		
+			
+		}
+		
 	}
 
-}
+
